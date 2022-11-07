@@ -12,3 +12,4 @@ _Code from [**Black Hat Python book by Justin Seitz and Tim Arnold**](https://no
 - [Chapter2] [**Writing a Sniffer**](C2-Writing_A_Sniffer)
   1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/BHP/blob/master/C2-Writing_A_Sniffer/Packet_Sniffing.ipynb) [**Packet Sniffing on Winzozz and Linux**](C2-Writing_A_Sniffer/Packet_Sniffing.ipynb)
   2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/BHP/blob/master/C2-Writing_A_Sniffer/IP_Decoder.ipynb) [**IP Decoder**](C2-Writing_A_Sniffer/IP_Decoder.ipynb)
+  3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/BHP/blob/master/C2-Writing_A_Sniffer/Host_Scanner.ipynb) [**Host Scanner**](C2-Writing_A_Sniffer/Host_Scanner.ipynb)
