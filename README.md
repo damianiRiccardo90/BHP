@@ -1,6 +1,11 @@
 # Black Hat Python
 _Code (and text) from [**Black Hat Python book by Justin Seitz and Tim Arnold**](https://nostarch.com/black-hat-python2E)._
 
+- [Chapter1] [**Setting Up Your Python Environment**](C1-Setting_Up_Your_Python_Environment)
+  1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/BHP/blob/master/C1-Setting_Up_Your_Python_Environment/Installing_Kali_Linux.ipynb) [**Installing Kali Linux**](C1-Setting_Up_Your_Python_Environment/Installing_Kali_Linux.ipynb)
+  2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/BHP/blob/master/C1-Setting_Up_Your_Python_Environment/Setting_Up_Python3.ipynb) [**Setting Up Python3**](C1-Setting_Up_Your_Python_Environment/Setting_Up_Python3.ipynb)
+  3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/BHP/blob/master/C1-Setting_Up_Your_Python_Environment/Installing_An_IDE.ipynb) [**Installing an IDE**](C1-Setting_Up_Your_Python_Environment/Installing_An_IDE.ipynb)
+  4. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/BHP/blob/master/C1-Setting_Up_Your_Python_Environment/Code_Hygiene.ipynb) [**Code Hygiene**](C1-Setting_Up_Your_Python_Environment/Code_Hygiene.ipynb)
 - [Chapter2] [**Basic Networking Tools**](C2-Basic_Networking_Tools)
   1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/BHP/blob/master/C2-Basic_Networking_Tools/TCP_Client.ipynb) [**TCP Client**](C2-Basic_Networking_Tools/TCP_Client.ipynb)
   2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/BHP/blob/master/C2-Basic_Networking_Tools/UDP_Client.ipynb) [**UDP Client**](C2-Basic_Networking_Tools/UDP_Client.ipynb)
