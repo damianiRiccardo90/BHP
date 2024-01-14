@@ -1,4 +1,13 @@
 # Black Hat Python
+
+---
+
+<div align="center" width="100%">
+<img src="https://github.com/damianiRiccardo90/BHP/blob/master/Black_Hat_Python_Forepage.png?raw=true" alt="Black Hat Python Forepage">
+</div>
+
+---
+
 _Code (and text) from [**Black Hat Python book by Justin Seitz and Tim Arnold**](https://nostarch.com/black-hat-python2E)._
 
 - [Chapter1] [**Setting Up Your Python Environment**](C1-Setting_Up_Your_Python_Environment)
